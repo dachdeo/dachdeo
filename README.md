@@ -1,16 +1,31 @@
 ## Hi there 👋
 Its DachTech
-<!--
-**dachdeo/dachdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> DEOGRACIOUS 💙</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://vm.tiktok.com/ZMBpJr63N/">
+    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+  </a>
+</p>
+    
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/dachdeo"><img title="Author" src="https://img.shields.io/badge/CypherX-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<p/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <strong>1. FORK REPOSITORY</strong>
+  <br>
+    <a href="https://github.com/Dark-Xploit/CypherX/fork" target="_blank">
+        <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
+    </a>
+</p>
+
+<p align="center">
+    <strong>2. SESSION ID & DEPLOYMENTS</strong>
+    <br>
+    <a href="https://cypherxbot.vercel.app/" target="_blank">
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    </a>
+</p>
